@@ -1,0 +1,13 @@
+# build output
+build/
+
+# Electron download cache (re-created by build.sh)
+*.zip
+*.zip.part
+
+# macOS
+.DS_Store
+._*
+
+# not a node project — but keep stray installs out
+node_modules/
